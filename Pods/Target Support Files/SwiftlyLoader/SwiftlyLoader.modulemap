@@ -1,0 +1,6 @@
+framework module SwiftlyLoader {
+  umbrella header "SwiftlyLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}

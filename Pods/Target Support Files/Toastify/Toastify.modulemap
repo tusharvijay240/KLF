@@ -1,0 +1,6 @@
+framework module Toastify {
+  umbrella header "Toastify-umbrella.h"
+
+  export *
+  module * { export * }
+}

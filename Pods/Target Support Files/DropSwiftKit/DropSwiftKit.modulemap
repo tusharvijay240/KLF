@@ -1,0 +1,6 @@
+framework module DropSwiftKit {
+  umbrella header "DropSwiftKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
